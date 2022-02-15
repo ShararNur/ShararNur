@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShararNur](https://github.com/ShararNur)
+- 👨‍💻 All of my projects are available at [https://github.com/ShararNur?tab=repositories](https://github.com/ShararNur)
 
 - 💬 Ask me about **Web development or any tech related stuff**
 
