@@ -28,7 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shararnur&show_icons=true&locale=en" alt="shararnur" /></p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shararnur&show_icons=true&locale=en&layout=compact" alt="shararnur" /></p>
 
 
